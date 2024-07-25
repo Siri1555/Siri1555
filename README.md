@@ -27,4 +27,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=siri1555&show_icons=true&locale=en&layout=compact" alt="siri1555" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siri1555&" alt="siri1555" /></p>
